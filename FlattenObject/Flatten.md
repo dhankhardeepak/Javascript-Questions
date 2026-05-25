@@ -1,7 +1,7 @@
 The Question is to flatten a deeply nested Object.
 
 Example 1
-Obj = {
+22412 = {
     'A' : 1,
     'B' : '12',
     'C' : {
